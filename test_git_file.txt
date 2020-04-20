@@ -1,1 +1,7 @@
 test
+<<<<<<< HEAD
+
+add line
+=======
+master change
+>>>>>>> 14d97ff657efae75a535ae235981772306775fcd
